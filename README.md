@@ -1,5 +1,5 @@
 # Car-Rental-System
-esign a Car Rental System in C++ using Object-Oriented Programming, operated via the command line. The system should:
+Design a Car Rental System in C++ using Object-Oriented Programming, operated via the command line. The system should:
 
 Track which cars are rented by each customer or employee.
 
